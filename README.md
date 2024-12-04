@@ -59,7 +59,7 @@ Burger_Shop/
 ### Base URL: `http://localhost:3000`
 
 #### 1. **Submit Order**
-   - **POST** `/api/orders`
+   - **POST** `/bugerorder`
    - **Description**: Validates an order and returns a WhatsApp link for submission.
    - **Request Body**:
      ```json
